@@ -33,7 +33,7 @@ I use [Git](http://semver.org/) for versioning. For the versions available, see 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [iAshishVerma](https://github.com/iAshishVerma)
+* **Ashish Verma** - *Initial work* - [iAshishVerma](https://github.com/iAshishVerma)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
